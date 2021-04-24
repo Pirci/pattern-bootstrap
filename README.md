@@ -1,6 +1,8 @@
 # Create pattern using Bootstrap4
 
-Udemy the Web Developer Bootcamp project. Fully responsive mobile first approach.
+Udemy the Web Developer Bootcamp project. 
+
+Fully responsive mobile first approach.
 
 
 
