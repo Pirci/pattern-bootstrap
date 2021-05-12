@@ -12,7 +12,7 @@ From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-deve
 Preview:  https://pirci.github.io/pattern-bootstrap/
 
 
-![pattern](https://makeagif.com/i/w3R4BE)
+![pattern](https://i.makeagif.com/media/5-12-2021/w3R4BE.gif)
 
 
 ## What I Learned:
